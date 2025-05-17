@@ -106,6 +106,7 @@ for idx, (idade, renda, hist, emprego) in enumerate(exemplos, 1):
 
 <hr>
 
-Saída com os exemplos:
+## Saída com os exemplos:
+
 ![image](https://github.com/user-attachments/assets/bf0ee0ac-0e54-41bd-8401-a82e79a21387)
 
